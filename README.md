@@ -43,3 +43,5 @@ This command will:
 ## Disclaimer
 
 This script is intended for educational purposes only. Unauthorized access to computer systems or networks is illegal and unethical. Always ensure you have explicit permission before using this script on any website or system.
+
+# 0x1tsjusthicham
